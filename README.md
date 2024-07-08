@@ -1,34 +1,42 @@
-<hr>
+    <meta charset="UTF-8">
+    <style>
+    body {
+    font-size: 14px;
+    }
+    </style>
+    </head>
+    <body>
+    <hr>
     <p>EY鳄鱼-永久地址更新页</p>
-<hr>
+    <hr>
     <br>
-    <a>免翻墙官方网站⇆主线路</a><br>
+    免翻墙官方网站⇆主线路<br>
     网址：https://bit.ly/Eywork<br>
     <br>
     //大陆地区访问可能较慢，通常无需加速器也能访问，只是加载时间较长。如果遇到无法访问的情况，请使用加速器解决。<br>
     <br>
-<hr>
+    <hr>
     <br>
-    <a>免翻墙官方网站⇆线路二</a><br>
+    免翻墙官方网站⇆线路二<br>
     https://eyofficial.github.io/<br>
     <br>
     //部分网络无法访问该线路<br>
     //无法访问？挂加速器即可<br>
     <br>
-<hr>
+    <hr>
     <br>
-    <a>获取线备用线路⇆线路三</a><br>
+    获取线备用线路⇆线路三<br>
     https://workdrive.zohopublic.com.cn/folder/7eiy822aed2c09f2e4ae2b9a54e9f543f24d7<br>
     <br>
     //该页无需翻墙，但稳定性一般。且与您当前访问的网页相似，是一个获取最新线路的线路。<br>
     <br>
-<hr>
+    <hr>
     <br>
     邮箱线路：Eywebsiteup@outlook.com<br>
     (发送任何内容到以上邮箱即可获取最新网址)<br>
     <br>
-<hr>
+    <hr>
     <br>
     //在中国大陆地区，为了确保线路一和线路二能够正常访问，可能需要您自行部署加速器。请在实际使用前进行测试以确认效果。<br>
     <br>
-<hr>
+    <hr>
