@@ -35,7 +35,7 @@
 ---
 
 邮箱线路：Eywebsiteup@outlook.com
-###### (发送任何内容到以上邮箱即可获取最新网址)
+##### (发送任意内容到该邮箱即可获取最新地址)
 
 ---
 
@@ -43,6 +43,6 @@
 
 ---
 .
-> <span style="font-size: 8px;">© 2023-2024 EYAPP (王鑫). All rights reserved</span>
+##### > © 2023-2024 EYAPP (王鑫). All rights reserved
 
 ---
