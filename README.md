@@ -35,14 +35,14 @@
 ---
 
 邮箱线路：Eywebsiteup@outlook.com
-#### (发送任何内容到以上邮箱即可获取最新网址)
+##### (发送任何内容到以上邮箱即可获取最新网址)
 
 ---
 
 //在中国大陆地区的用户们，为了确保你们能够正常访问多数线路，所以建议您最好自行部署VPN或代理服务后访问本站线路。
 
 ---
+.
+> <span style="font-size: 11px;">© 2023-2024 EYAPP (王鑫). All rights reserved</span>
 
-###### > © 2023-2024 EYAPP (王鑫). All rights reserved.
-
---
+---
